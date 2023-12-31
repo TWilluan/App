@@ -1,0 +1,7 @@
+/Users/tuanvo/Documents/Projects/react_app/App/app/APP/obj/Debug/net7.0/APP.csproj.AssemblyReference.cache
+/Users/tuanvo/Documents/Projects/react_app/App/app/APP/obj/Debug/net7.0/APP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuanvo/Documents/Projects/react_app/App/app/APP/obj/Debug/net7.0/APP.AssemblyInfoInputs.cache
+/Users/tuanvo/Documents/Projects/react_app/App/app/APP/obj/Debug/net7.0/APP.AssemblyInfo.cs
+/Users/tuanvo/Documents/Projects/react_app/App/app/APP/obj/Debug/net7.0/APP.csproj.CoreCompileInputs.cache
+/Users/tuanvo/Documents/Projects/react_app/App/app/APP/obj/Debug/net7.0/APP.MvcApplicationPartsAssemblyInfo.cs
+/Users/tuanvo/Documents/Projects/react_app/App/app/APP/obj/Debug/net7.0/APP.MvcApplicationPartsAssemblyInfo.cache

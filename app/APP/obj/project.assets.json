@@ -1462,11 +1462,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tuanvo/Documents/Projects/react_app/app/APP/APP.csproj",
+      "projectUniqueName": "/Users/tuanvo/Documents/Projects/react_app/App/app/APP/APP.csproj",
       "projectName": "APP",
-      "projectPath": "/Users/tuanvo/Documents/Projects/react_app/app/APP/APP.csproj",
+      "projectPath": "/Users/tuanvo/Documents/Projects/react_app/App/app/APP/APP.csproj",
       "packagesPath": "/Users/tuanvo/.nuget/packages/",
-      "outputPath": "/Users/tuanvo/Documents/Projects/react_app/app/APP/obj/",
+      "outputPath": "/Users/tuanvo/Documents/Projects/react_app/App/app/APP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tuanvo/.nuget/NuGet/NuGet.Config"
