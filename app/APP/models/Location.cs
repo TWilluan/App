@@ -6,6 +6,8 @@ namespace app.models;
 
 public class LocationObject
 {
-    public string? City { get; set; }
-    public string? Country { get; set; }
+    [Required]
+    public string City { get; set; } = null!;
+    [Required]
+    public string Country { get; set; } = null!;
 }
